@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ai.dubix.engine.GenderHintTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-08T20:22:06.704Z" hostname="BILAL" time="0.31">
+  <properties/>
+  <testcase name="quietAudioIsNormalisedForPitchTracking" classname="ai.dubix.engine.GenderHintTest" time="0.102"/>
+  <testcase name="readsExplicitSubtitleCuesOnly" classname="ai.dubix.engine.GenderHintTest" time="0.166"/>
+  <testcase name="pitchPicksGenderAndVoiceWithinGender" classname="ai.dubix.engine.GenderHintTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

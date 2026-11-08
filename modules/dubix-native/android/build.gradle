@@ -1,0 +1,44 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'ai.dubix'
+version = '1.0.0'
+
+// sherpa-onnx is fetched into ./maven by scripts/fetch-sherpa-onnx.js (npm postinstall)
+// and exposed to the app via expo-build-properties `extraMavenRepos`.
+// 1.12.21: last mirrored build that still bundles espeak-ng (needed by Piper voices); 2.x removed it.
+def sherpaOnnxVersion = '1.12.21'
+def media3Version = '1.8.0'
+
+android {
+  namespace "ai.dubix.engine"
+  defaultConfig {
+    versionCode 1
+    versionName '1.0.0'
+    consumerProguardFiles 'proguard-rules.pro'
+  }
+  testOptions {
+    unitTests.returnDefaultValues = true
+  }
+}
+
+repositories {
+  maven { url "${projectDir}/maven" }
+}
+
+dependencies {
+  implementation "com.k2fsa:sherpa-onnx:${sherpaOnnxVersion}@aar"
+  implementation "androidx.media3:media3-exoplayer:${media3Version}"
+  implementation "androidx.media3:media3-ui:${media3Version}"
+  implementation "com.google.mlkit:translate:17.0.3"
+  // On-screen subtitle reading (bundled models, fully on-device) and subtitle language detection.
+  implementation "com.google.mlkit:text-recognition:16.0.1"
+  implementation "com.google.mlkit:text-recognition-devanagari:16.0.1"
+  implementation "com.google.mlkit:language-id:17.0.6"
+  implementation "org.apache.commons:commons-compress:1.27.1"
+  implementation "androidx.core:core-ktx:1.16.0"
+
+  testImplementation "junit:junit:4.13.2"
+}

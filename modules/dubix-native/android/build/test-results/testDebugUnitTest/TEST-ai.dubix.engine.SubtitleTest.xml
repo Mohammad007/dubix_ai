@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ai.dubix.engine.SubtitleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-08T20:22:07.033Z" hostname="BILAL" time="0.097">
+  <properties/>
+  <testcase name="voiceBoostIsLimited" classname="ai.dubix.engine.SubtitleTest" time="0.011"/>
+  <testcase name="parsesSrtWithTagsSdhAndSpeakerLabels" classname="ai.dubix.engine.SubtitleTest" time="0.061"/>
+  <testcase name="parsesWebVttAndAss" classname="ai.dubix.engine.SubtitleTest" time="0.012"/>
+  <testcase name="ocrLineMatchingToleratesJitter" classname="ai.dubix.engine.SubtitleTest" time="0.002"/>
+  <testcase name="audioRingSlicesByAbsoluteIndex" classname="ai.dubix.engine.SubtitleTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/raw/translate_models_metadata.json",
+        "source": "ai.dubix.engine.dubix-native-translate-17.0.3-4:/raw/translate_models_metadata.json"
+    }
+]

@@ -41,3 +41,6 @@ example
 # generated native folders
 /ios
 /android
+
+# sherpa-onnx AAR (fetched by scripts/fetch-sherpa-onnx.js)
+modules/dubix-native/android/maven/

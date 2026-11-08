@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/layout-v21/notification_action_tombstone.xml",
+        "source": "ai.dubix.engine.dubix-native-core-1.16.0-7:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/layout-v21/notification_template_custom_big.xml",
+        "source": "ai.dubix.engine.dubix-native-core-1.16.0-7:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/layout-v21/notification_action.xml",
+        "source": "ai.dubix.engine.dubix-native-core-1.16.0-7:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/layout-v21/notification_template_icon_group.xml",
+        "source": "ai.dubix.engine.dubix-native-core-1.16.0-7:/layout-v21/notification_template_icon_group.xml"
+    }
+]

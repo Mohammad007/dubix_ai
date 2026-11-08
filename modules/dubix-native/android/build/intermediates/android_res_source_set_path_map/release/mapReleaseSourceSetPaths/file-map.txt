@@ -1,0 +1,9 @@
+ai.dubix.engine.dubix-native-pngs-0 D:\App\dubix_ai\modules\dubix-native\android\build\generated\res\pngs\release
+ai.dubix.engine.dubix-native-updated_navigation_xml-1 D:\App\dubix_ai\modules\dubix-native\android\build\generated\updated_navigation_xml\release
+ai.dubix.engine.dubix-native-mergeReleaseResources-2 D:\App\dubix_ai\modules\dubix-native\android\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+ai.dubix.engine.dubix-native-mergeReleaseResources-3 D:\App\dubix_ai\modules\dubix-native\android\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+ai.dubix.engine.dubix-native-release-4 D:\App\dubix_ai\modules\dubix-native\android\build\intermediates\merged_res\release\mergeReleaseResources
+ai.dubix.engine.dubix-native-release-5 D:\App\dubix_ai\modules\dubix-native\android\build\intermediates\packaged_res\release\packageReleaseResources
+ai.dubix.engine.dubix-native-main-6 D:\App\dubix_ai\modules\dubix-native\android\src\main\res
+ai.dubix.engine.dubix-native-release-7 D:\App\dubix_ai\modules\dubix-native\android\src\release\res
+gradleHome-0 C:\Users\Bilal\.gradle

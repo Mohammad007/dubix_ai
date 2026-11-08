@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ai.dubix.engine.DspTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-08T20:22:05.275Z" hostname="BILAL" time="1.345">
+  <properties/>
+  <testcase name="timeStretchChangesLengthNotPitch" classname="ai.dubix.engine.DspTest" time="0.504"/>
+  <testcase name="textNormalization" classname="ai.dubix.engine.DspTest" time="0.196"/>
+  <testcase name="resamplerKeepsDurationAcrossChunks" classname="ai.dubix.engine.DspTest" time="0.186"/>
+  <testcase name="wavRoundTrip" classname="ai.dubix.engine.DspTest" time="0.094"/>
+  <testcase name="fitSpeedBounds" classname="ai.dubix.engine.DspTest" time="0.002"/>
+  <testcase name="schedulerDecisions" classname="ai.dubix.engine.DspTest" time="0.039"/>
+  <testcase name="clustererSeparatesDistinctSpeakers" classname="ai.dubix.engine.DspTest" time="0.015"/>
+  <testcase name="silenceTrimmerRemovesEdgesAndLongPauses" classname="ai.dubix.engine.DspTest" time="0.118"/>
+  <testcase name="pitchRegisterSuggestion" classname="ai.dubix.engine.DspTest" time="0.113"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

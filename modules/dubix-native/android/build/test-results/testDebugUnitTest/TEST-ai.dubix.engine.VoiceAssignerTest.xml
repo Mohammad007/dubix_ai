@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ai.dubix.engine.VoiceAssignerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-08T20:22:07.257Z" hostname="BILAL" time="0.016">
+  <properties/>
+  <testcase name="eachSpeakerKeepsOneGenderMatchedVoice" classname="ai.dubix.engine.VoiceAssignerTest" time="0.014"/>
+  <testcase name="manualMappingWinsAndMissingGenderUsesShiftedOtherVoice" classname="ai.dubix.engine.VoiceAssignerTest" time="0.001"/>
+  <testcase name="twoMenGetDifferentVoicesAndExtraSpeakersArePitchShifted" classname="ai.dubix.engine.VoiceAssignerTest" time="0.0"/>
+  <testcase name="shortSegmentsCannotCreateSpeakers" classname="ai.dubix.engine.VoiceAssignerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

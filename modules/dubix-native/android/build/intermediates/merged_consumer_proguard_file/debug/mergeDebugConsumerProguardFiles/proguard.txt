@@ -1,0 +1,3 @@
+# sherpa-onnx uses JNI field access on its Kotlin config classes.
+-keep class com.k2fsa.sherpa.onnx.** { *; }
+-keep class ai.dubix.engine.** { *; }

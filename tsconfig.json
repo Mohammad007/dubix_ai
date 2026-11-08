@@ -8,13 +8,23 @@
       ],
       "@/assets/*": [
         "./assets/*"
+      ],
+      "dubix-native": [
+        "./modules/dubix-native/index.ts"
       ]
-    }
+    },
+    "types": [
+      "jest"
+    ]
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "android"
   ]
 }

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_fastforward.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_speed.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_speed.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_stop.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_stop.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_repeat_one.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_repeat_one.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_skip_next.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_skip_next.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_chevron_left.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_chevron_left.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_audiotrack.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_audiotrack.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_check.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_check.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_repeat_off.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_repeat_off.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_shuffle_off.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_shuffle_off.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_forward.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_forward.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_subtitle_on.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_subtitle_on.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_next.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_chevron_right.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_chevron_right.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_default_album_image.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_default_album_image.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_play_circle_filled.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_play_circle_filled.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_settings.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_settings.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_shuffle_on.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_pause.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_repeat_all.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_repeat_all.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_skip_previous.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_skip_previous.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_rewind.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_subtitle_off.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_subtitle_off.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_previous.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_ic_rewind.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_ic_rewind.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/drawable-anydpi-v21/exo_icon_play.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/drawable-anydpi-v21/exo_icon_play.xml"
+    }
+]

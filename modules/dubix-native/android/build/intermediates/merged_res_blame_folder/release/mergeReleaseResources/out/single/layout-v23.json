@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/layout-v23/exo_player_control_rewind_button.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/layout-v23/exo_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "ai.dubix.engine.dubix-native-release-30:/layout-v23/exo_player_control_ffwd_button.xml",
+        "source": "ai.dubix.engine.dubix-native-media3-ui-1.8.0-18:/layout-v23/exo_player_control_ffwd_button.xml"
+    }
+]
