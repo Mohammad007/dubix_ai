@@ -1,0 +1,7 @@
+{
+  "name": "dubix-native",
+  "version": "1.0.0",
+  "description": "DubiX AI on-device audio, ML and playback bridge (Android, Kotlin)",
+  "main": "index.ts",
+  "private": true
+}
